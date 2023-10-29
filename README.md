@@ -17,7 +17,7 @@ During the Hack2Rail Hackathon, our team developed a transport-related applicati
     - **3.2** Implements a kudo token system to reward passengers who offer help.
     - **3.3** In case no help is available from fellow passengers, the request is notified to the personnel.
 
-The details of the hackathon and our project can be found in the uploaded document (ID: 8f15ab52-6708-4333-8e74-13ea87f8bace).
+The details of the hackathon and our project can be found in the uploaded document [here](https://github.com/parishwadomkar/GoodByeChaos/blob/main/Goodbye%20Chaos%20-%20Hackathon%20proposal.pdf).
 
 As a part of the team, I was responsible for Python & Dashboard programming, contributing to the development of the application. My role involved writing Python scripts to handle data processing and visualization, as well as creating dashboards to display real-time information and insights derived from the data. This was my contribution to the application. My code for the individual location acquisitions and 3D viewing for navigation (developed over WebGL-powered features of the Maps JavaScript API), visual dashboard and Firebase-based global chat has been uploaded to this GitHub repository
 

@@ -1,7 +1,7 @@
 # Hack2Rail Hackathon - Goodbye Chaos! Application
 
 During the Hack2Rail Hackathon, our team developed a transport-related application aimed at enhancing the travel experience for passengers. Our application, "Goodbye Chaos!", focuses on three core features:
-
+![The Idea](https://github.com/parishwadomkar/GoodByeChaos/blob/main/GoodByeChaos!.png)
 1. **Boarding Gate Navigation**:
     - **1.1** Assists passengers with or without luggage in navigating to their boarding gate based on the seat plan or carriage and luggage room.
     - **1.2** Utilizes simple sensors and wireless communication for smooth boarding.
@@ -18,9 +18,9 @@ During the Hack2Rail Hackathon, our team developed a transport-related applicati
 
 The details of the hackathon and our project can be found in the uploaded document (ID: 8f15ab52-6708-4333-8e74-13ea87f8bace).
 
-As a part of the team, I was responsible for Python & Dashboard programming, contributing [significantly](https://github.com/parishwadomkar/GoodByeChaos/blob/main/Prototype_OM.png) to the development of the application. My role involved writing Python scripts to handle data processing and visualization, as well as creating dashboards to display real-time information and insights derived from the data.
+As a part of the team, I was responsible for Python & Dashboard programming, contributing to the development of the application. My role involved writing Python scripts to handle data processing and visualization, as well as creating dashboards to display real-time information and insights derived from the data. My part of the application ![significantly](https://github.com/parishwadomkar/GoodByeChaos/blob/main/Prototype_OM.png)
 
 The "Goodbye Chaos!" application is a testament to our team's commitment to improving the travel experience for passengers by leveraging technology and community support. We believe that our application can play a crucial role in making travel more seamless, enjoyable, and hassle-free for passengers.
-https://github.com/parishwadomkar/GoodByeChaos/blob/main/GoodByeChaos!.png
+
 Feel free to explore the code files and other resources in this GitHub repository to learn more about our project and how it can be utilized to enhance the travel experience for passengers.
 Thank you for your interest in our project, and we hope you find it valuable and insightful.

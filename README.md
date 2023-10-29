@@ -19,7 +19,7 @@ During the Hack2Rail Hackathon, our team developed a transport-related applicati
 
 The details of the hackathon and our project can be found in the uploaded document (ID: 8f15ab52-6708-4333-8e74-13ea87f8bace).
 
-As a part of the team, I was responsible for Python & Dashboard programming, contributing to the development of the application. My role involved writing Python scripts to handle data processing and visualization, as well as creating dashboards to display real-time information and insights derived from the data. My part of the application
+As a part of the team, I was responsible for Python & Dashboard programming, contributing to the development of the application. My role involved writing Python scripts to handle data processing and visualization, as well as creating dashboards to display real-time information and insights derived from the data. This was my contribution to the application:
 
 ![significantly](https://github.com/parishwadomkar/GoodByeChaos/blob/main/Prototype_OM.png)
 
